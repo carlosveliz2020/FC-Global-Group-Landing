@@ -1,0 +1,9 @@
+# FC Global Group — Python Dependencies
+# Document processing pipeline (markitdown)
+markitdown[all]>=0.1.0
+
+# Optional: Anthropic SDK for LLM-powered analysis of converted documents
+# anthropic>=0.40.0
+
+# Optional: OpenAI SDK (required for LLM image description feature in markitdown)
+# openai>=1.0.0

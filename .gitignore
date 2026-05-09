@@ -1,0 +1,20 @@
+# Environment variables
+.env
+llm-council/.env
+
+# Python
+llm-council/.venv/
+llm-council/__pycache__/
+llm-council/backend/__pycache__/
+*.pyc
+*.pyo
+
+# Node
+llm-council/frontend/node_modules/
+
+# Data (conversations stored locally)
+llm-council/data/
+
+# OS
+.DS_Store
+Thumbs.db

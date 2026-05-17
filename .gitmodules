@@ -1,0 +1,3 @@
+[submodule ".claude/plugins/claude-council"]
+	path = .claude/plugins/claude-council
+	url = https://github.com/hex/claude-council.git
